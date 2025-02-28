@@ -1,2 +1,2 @@
-# ML_project
-Final project of the course Introduction to Machine Learning (UniTS)
+# Basket_Prediction
+Final project - Introduction to Machine Learning (UniTS)
